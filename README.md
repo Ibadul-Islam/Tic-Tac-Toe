@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic Tac toe game using jaascript
+Tic Tac toe game using JavaScript
